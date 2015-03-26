@@ -1,0 +1,18 @@
+\\psf\home\documents\visual studio 2013\Projects\OneRing-DiceRoll\OneRing-DiceRoll\bin\Debug\OneRing-DiceRoll.exe.config
+\\psf\home\documents\visual studio 2013\Projects\OneRing-DiceRoll\OneRing-DiceRoll\bin\Debug\OneRing-DiceRoll.exe
+\\psf\home\documents\visual studio 2013\Projects\OneRing-DiceRoll\OneRing-DiceRoll\bin\Debug\OneRing-DiceRoll.pdb
+\\psf\home\documents\visual studio 2013\Projects\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing-DiceRoll.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing_DiceRoll.Form1.resources
+\\psf\home\documents\visual studio 2013\Projects\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing_DiceRoll.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing-DiceRoll.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing-DiceRoll.exe
+\\psf\home\documents\visual studio 2013\Projects\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing-DiceRoll.pdb
+C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\bin\Debug\OneRing-DiceRoll.exe.config
+C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing-DiceRoll.exe
+C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing-DiceRoll.pdb
+C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\bin\Debug\OneRing-DiceRoll.exe
+C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\bin\Debug\OneRing-DiceRoll.pdb
+C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing-DiceRoll.csprojResolveAssemblyReference.cache
+C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing_DiceRoll.Properties.Resources.resources
+C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing-DiceRoll.csproj.GenerateResource.Cache
+C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing_DiceRoll.MainForm.resources
