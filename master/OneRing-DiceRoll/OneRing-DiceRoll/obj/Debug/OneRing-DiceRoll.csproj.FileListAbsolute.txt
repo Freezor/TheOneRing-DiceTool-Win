@@ -16,3 +16,6 @@ C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRin
 C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing_DiceRoll.Properties.Resources.resources
 C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing-DiceRoll.csproj.GenerateResource.Cache
 C:\Users\Oliver Fries\Desktop\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing_DiceRoll.MainForm.resources
+D:\Workspace\C#\TOR-DiceTool\TheOneRing-DiceTool-Win\master\OneRing-DiceRoll\OneRing-DiceRoll\bin\Debug\OneRing-DiceRoll.exe.config
+D:\Workspace\C#\TOR-DiceTool\TheOneRing-DiceTool-Win\master\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing-DiceRoll.exe
+D:\Workspace\C#\TOR-DiceTool\TheOneRing-DiceTool-Win\master\OneRing-DiceRoll\OneRing-DiceRoll\obj\Debug\OneRing-DiceRoll.pdb
